@@ -29,7 +29,7 @@ export const workSlider = {
       images: [
         {
           title: 'Education website',
-          path: '/Portfolio/thumb5.jpg',
+          path: '/Portfolio/thumb5.png',
           url: 'https://abdelrahmansalam.github.io/Education-website/',
         },
         {
