@@ -4,22 +4,22 @@ export const workSlider = {
     {
       images: [
         {
-          title: 'title',
+          title: 'Project Simone',
           path: '/Portfolio/thumb1.png',
           url: 'https://abdelrahmansalam.github.io/Project-Simone/',
         },
         {
-          title: 'title',
+          title: 'Div Folio',
           path: '/Portfolio/thumb2.png',
           url: 'https://abdelrahmansalam.github.io/DivFolio/',
         },
         {
-          title: 'title',
+          title: 'Quotes',
           path: '/Portfolio/thumb3.png',
           url: 'https://abdelrahmansalam.github.io/Quotes/',
         },
         {
-          title: 'title',
+          title: 'Crud System',
           path: '/Portfolio/thumb4.png',
           url: 'https://abdelrahmansalam.github.io/Crud-System/',
         },
@@ -28,8 +28,9 @@ export const workSlider = {
     {
       images: [
         {
-          title: 'title',
-          path: '/Portfolio/thumb4.jpg',
+          title: 'Education website',
+          path: '/Portfolio/thumb5.jpg',
+          url: 'https://abdelrahmansalam.github.io/Education-website/',
         },
         {
           title: 'title',
