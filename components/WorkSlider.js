@@ -9,10 +9,10 @@ export const workSlider = {
           url: 'https://abdelrahmansalam.github.io/Project-Simone/',
         },
         {
-          title: 'Div Folio',
-          path: '/Portfolio/thumb2.png',
-          url: 'https://abdelrahmansalam.github.io/DivFolio/',
-        },
+          title: 'Education website',
+          path: '/Portfolio/thumb5.png',
+          url: 'https://abdelrahmansalam.github.io/Education-website/',
+        },      
         {
           title: 'Quotes',
           path: '/Portfolio/thumb3.png',
@@ -28,9 +28,9 @@ export const workSlider = {
     {
       images: [
         {
-          title: 'Education website',
-          path: '/Portfolio/thumb5.png',
-          url: 'https://abdelrahmansalam.github.io/Education-website/',
+          title: 'Div Folio',
+          path: '/Portfolio/thumb2.png',
+          url: 'https://abdelrahmansalam.github.io/DivFolio/',
         },
         {
           title: 'title',
