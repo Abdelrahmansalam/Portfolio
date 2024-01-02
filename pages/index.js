@@ -37,7 +37,7 @@ const Home = () => {
             exit='hidden'
             className='max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16'
           >
-            As a frontend developer, I craft visually stunning and user-friendly interfaces using the latest technologies. Explore my work to see how I can bring your digital ideas to life, and feel free to reach out to discuss your next project.
+            As a Full-stack developer, I craft visually stunning and user-friendly interfaces using the latest technologies. Explore my work to see how I can bring your digital ideas to life, and feel free to reach out to discuss your next project.
           </motion.p>
           {/* btn */}
           <div className='flex justify-center xl:hidden relative'>
