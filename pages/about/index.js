@@ -25,6 +25,7 @@ export const aboutData = [
           <FaJs key="javascript" />,
           <FaReact key="react" />,
           <FaAngular key="angular" />,
+          <FaDotnet key="dotnet" />,
         ],
       },
    
